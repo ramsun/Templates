@@ -2,7 +2,7 @@
 Ramamurthy Sundar
 main.cpp
 
-This is the driver for machine problem 5.  It showcases the use of templates and how
+This is the driver for program.  It showcases the use of templates and how
 they can be used to create custom classes than can store information of multiple types.
 
 In this program, a class will be able to store stock information given in a text file.
