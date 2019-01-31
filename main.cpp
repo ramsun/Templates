@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 271 - Machine Problem 5
-Fall 2018
-
 main.cpp
 
 This is the driver for machine problem 5.  It showcases the use of templates and how
