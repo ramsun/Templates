@@ -1,7 +1,5 @@
 /*
 Ramamurthy Sundar
-Fall 2018
-
 class.h
 
 Definition of stockType and stockListType classes.
