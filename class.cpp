@@ -1,7 +1,5 @@
 /*
 Ramamurthy Sundar
-Fall 2018
-
 class.cpp
 
 Implementations of the classes and functions defined in class.h.  See comments
